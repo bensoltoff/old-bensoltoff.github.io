@@ -19,6 +19,9 @@ Projects in Progress
 * Campaign Contributions and Judicial Decisionmaking: Does Money Buy Access?
 * Campaign Contributions and Judicial Decisionmaking in Elected and Appointed Judiciaries (with Jeremy Johnson)
 * Do Decisions Follow Dollars? Campaign Contributions and State Supreme Court Decisions
+* The Effect of Institutional Procedures on Agenda-Setting in State Courts of Last Resort
+* Sincere and Sophisticated Agenda-Setting in State Courts of Last Resort
+* Supreme Court Behavior Under Mandatory Jurisdiction (with Christopher Zorn)
 
 Software
 =================
@@ -29,4 +32,5 @@ Links
 =================
 
 * [My CV](https://drive.google.com/file/d/0ByLziL7vt0rqOFQ3VTRjMm9ubTA/view?usp=sharing)
+* [Teaching]({{ site.baseurl }}/about/teaching.html)
 
