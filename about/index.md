@@ -32,5 +32,4 @@ Links
 =================
 
 * [My CV](https://drive.google.com/file/d/0ByLziL7vt0rqOFQ3VTRjMm9ubTA/view?usp=sharing)
-* [Teaching]({{ site.baseurl }}/about/teaching.html)
 
