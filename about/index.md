@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 tags: [about]
-comments: true
+comments: false
 ---
 
 I am a visiting assistant professor at [Miami University](http://miamioh.edu/cas/academics/departments/political-science/index.html). In August 2015, I received my Ph.D. in [Political Science](http://polisci.la.psu.edu/) from Penn State University. My interests include American politics, judicial politics, machine learning, and statistics in R.
