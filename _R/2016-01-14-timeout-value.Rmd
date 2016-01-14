@@ -202,6 +202,7 @@ df %>%
             pct = wino / n) %>%
   select(timo, timd, n) %>%
   spread(timo, n) %>%
+  mutate_each(funs(ifelse(is.na(.), 0, .))) %>%
   rename(` ` = timd) %>%
   knitr::kable(., format = "markdown")
 ```

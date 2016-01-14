@@ -56,7 +56,7 @@ This suggests a few different possibilities. The first is that timeouts simply d
 
 |   |  0|  1|   2|    3|
 |--:|--:|--:|---:|----:|
-|  0| NA| NA|  NA|    2|
+|  0|  0|  0|   0|    2|
 |  1|  2|  1|  10|   16|
 |  2|  1| 16|  57|  315|
 |  3|  2| 34| 342| 2762|
