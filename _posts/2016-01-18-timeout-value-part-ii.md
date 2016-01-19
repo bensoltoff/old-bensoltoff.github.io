@@ -71,10 +71,11 @@ Here we can also see the diminishing impact of the number of trees included in t
 
 We can also check to see how well our WP model performs at classification by assessing specific types of errors. There are two possible outcomes in this model: either the offense wins or it loses. If the model makes accurate predictions, when an offense wins a game all its plays from that game will be classified as wins (a true-positive) and when an offense loses a game all its plays from that game will be classified as losses (a true-negative). When the model predicts an offense will win the game and in fact the offense lost, then the model generated a false-positive. if the model predicts an offense will lose the game and in fact the offense won, then the model generated a false-negative.
 
-              | Predict-Win   | Predict-Lose
--------------------------------------------------
-*Actual-Win*  | True-positive | False-negative
-*Actual-Lose* | False-positive | True-negative
+|                | Predict-Win    | Predict-Lose   |
+|----------------|----------------|----------------|
+|**Actual-Win**  | True-Positive  | False-Negative |
+|**Actual-Lose** | False-Positive | True-Negative  |
+
 
 A common analysis of these results compares the true-positive and false-positive rates at different threshold levels. The threshold level is simply the cutoff for converting a probability (e.g. .2, .4, .6) into a prediction (e.g. lose, lose, win). The standard threshold is .5; any observation with a predicted WP above .5 is considered a "win" and anything below .5 is a "lose". This threshold makes intuitive sense as people typically round decimals to the closest integer value, however we could make the threshold level anywhere between 0 and 1. At each of these thresholds we convert our probabilities to predictions, then calculate how many false-positives vs. true-positives we generated.
 
