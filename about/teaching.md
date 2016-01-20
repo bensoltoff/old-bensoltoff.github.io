@@ -11,10 +11,10 @@ As a teacher, I believe my primary mission is to prepare students to be educated
 
 ### Instructor
 
-* POL 241: American Political System ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqb3NDR2haV20yTzg/view); Spring 2016)
+* POL 241: American Political System ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqb3NDR2haV20yTzg/view); [Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqcnItSHBJU2VFcFE/view?usp=sharing))
 * POL 351: Criminal Justice ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqS2xkUDN0aGF3WEk/view))
-* POL 352: Constitutional Law (Spring 2016)
-* POL 353: Constitutional Rights and Liberties ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqVmRsWlJFRS1lck0/view); Spring 2016)
+* POL 352: Constitutional Law & Politics ([Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqcUtWTnNqMFZkNjQ/view?usp=sharing))
+* POL 353: Constitutional Rights & Liberties ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqVmRsWlJFRS1lck0/view); [Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqemVnTEpQRDV5c2M/view?usp=sharing))
 * PL SC 309: Quantitative Political Analysis ([Spring 2015](https://drive.google.com/file/d/0ByLziL7vt0rqRHR5X3dCVldWQ2s/view?usp=sharing))
 * PL SC 471: American Constitutional Law ([Summer 2014](https://drive.google.com/file/d/0ByLziL7vt0rqWkdoNXlhMTZ1Q1E/edit?usp=sharing))
 
