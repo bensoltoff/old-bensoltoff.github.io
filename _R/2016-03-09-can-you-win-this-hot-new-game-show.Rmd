@@ -152,7 +152,9 @@ ggplot(cut_combo, aes(cut1, cut2, fill = p1_prop)) +
   labs(x = "Player 1 Cutpoint",
        y = "Player 2 Cutpoint",
        fill = "Player 1 Win\nPercentage") +
-  theme_bw()
+  theme_bw() +
+  theme(legend.position = "bottom",
+        legend.text = element_text(size = 8))
 ```
 
 As can be seen above, if either player adjusts his or her strategy, then one of them will be more successful in the long run. In order to maintain the balance, each player should discard their first number if it is less than approximately `r sqrt(5) / 2 - (1 / 2)`.

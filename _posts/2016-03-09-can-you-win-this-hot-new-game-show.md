@@ -251,7 +251,9 @@ ggplot(cut_combo, aes(cut1, cut2, fill = p1_prop)) +
   labs(x = "Player 1 Cutpoint",
        y = "Player 2 Cutpoint",
        fill = "Player 1 Win\nPercentage") +
-  theme_bw()
+  theme_bw() +
+  theme(legend.position = "bottom",
+        legend.text = element_text(size = 8))
 {% endhighlight %}
 
 ![center](/figs/2016-03-09-can-you-win-this-hot-new-game-show/vary_cut_plot-1.png)
