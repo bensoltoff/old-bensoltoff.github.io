@@ -3,7 +3,7 @@ layout: post
 title: "Can You Win This Hot New Game Show?"
 description: "Expanding on the Riddler's Problem"
 output: html_document
-date: 2016-03-09 13:00:00 -0500
+date: 2016-03-09 12:00:00 -0500
 category: r
 tags: [r]
 comments: true
