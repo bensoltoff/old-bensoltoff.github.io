@@ -3,7 +3,7 @@ layout: post
 title: "Can You Best The Mysterious Man In The Trench Coat?"
 description: "Expanding on the Riddler's Problem"
 output: html_document
-date: 2016-03-20 18:00:00 -0500
+date: 2016-03-20 12:00:00 -0500
 category: r
 tags: [r]
 comments: true
