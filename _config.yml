@@ -11,6 +11,7 @@ url:              http://www.bensoltoff.com
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
+# highlighter: pygment
 sass:
   sass_dir: _sass
   style: compressed
