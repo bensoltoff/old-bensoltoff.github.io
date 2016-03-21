@@ -15,25 +15,25 @@ The latest [Riddler puzzle on FiveThirtyEight](http://fivethirtyeight.com/featur
 
 > A man in a trench coat approaches you and pulls an envelope from his pocket. He tells you that it contains a sum of money in bills, anywhere from $1 up to $1,000. He says that if you can guess the exact amount, you can keep the money. After each of your guesses he will tell you if your guess is too high, or too low. But! You only get nine tries. *What should your first guess be to maximize your expected winnings?*
 
-My solution is based on a basic, yet elegant, strategy. The first guess can be selected arbitrarily between $1 and $1000 - let's say here that my first guess is $500. If my guess is correct, then I'm done (yay!). But since I have just a 1 in 1000 probability of guessing correctly on the first try, I'm probably not done. So if the trenchcoat man says the actual value is higher, my next guess will be the midway point between my first guess and the maximum possible value. Initially, this will be $1000. If the trenchcoat man says the actual value is lower, my next guess will be the midway point between my first guess and the minimum possible value ($1).
+My solution is based on a basic, yet elegant, strategy. The first guess can be selected arbitrarily between $1 and $1000 - let's say here that my first guess is $500. If my guess is correct, then I win (yay!). But since I have just a 1 in 1000 probability of guessing correctly on the first try, I'm probably not done. So if the trenchcoat man says the actual value is higher, my next guess will be the midway point between my first guess and the maximum possible value. Initially, this will be $1000. If the trenchcoat man says the actual value is lower, my next guess will be the midway point between my first guess and the minimum possible value ($1).
 
-So let's say my guess is too low and the actual value is higher. My second guess would be $750. If I'm correct, I win. If actual value is lower, my next guess will be the midpoint between $500 and $750 - remember that I now know it must be within this range.
+So let's say my guess is too low and the actual value is higher. My second guess would be $750. If I'm correct, I win. If the actual amount is lower, my next guess will be the midpoint between $500 and $750 - remember that I now know it must be within this range.
 
-I can iterate through this process with up to 9 guesses. At that point, if I still have not guessed the value, I lose.
+I can iterate through this process with up to 9 guesses. At that point, if I still have not guessed the amount, I lose.
 
 To simulate this process in `R`, I wrote the following function
 
 
 {% highlight r %}
 require(dplyr)
-require(magrittr)
 require(ggplot2)
 require(ggrepel)
 
-set.seed(11091987)
+set.seed(048573)
 
 # function to guess money amount using strategy
-guess_money <- function(actual, initial, n_tries = 9, min_val = 1, max_val = 1000,
+guess_money <- function(actual, initial, n_tries = 9,
+                        min_val = 1, max_val = 1000,
                         print_guess = FALSE){
   # set iterator
   i <- 1
@@ -77,7 +77,7 @@ As an example, let's say the actual amount of money is $736 and my first guess i
 
 
 {% highlight r %}
-guess_money(736, 500, print_guess = TRUE)
+guess_money(actual = 736, initial = 500, print_guess = TRUE)
 {% endhighlight %}
 
 
@@ -107,7 +107,7 @@ Of course, there is no reason why I have to choose $500 for my initial guess. Wh
 
 
 {% highlight r %}
-guess_money(736, 1, print_guess = TRUE)
+guess_money(actual = 736, initial = 1, print_guess = TRUE)
 {% endhighlight %}
 
 
@@ -131,9 +131,9 @@ guess_money(736, 1, print_guess = TRUE)
 ##     0     9
 {% endhighlight %}
 
-Clearly not the best initial guess. I wasted my first guess and ended up not winning the money. But how do we know which initial guess provides the highest *expected value*? That is, the initial guess that maximizes my potential winnings regardless of the actual amount of money held by the trenchcoat man?
+Clearly not the best initial guess. I wasted my first guess and ended up not winning the money. But how do we know which initial guess provides the highest *[expected value](https://en.wikipedia.org/wiki/Expected_value)*? That is, the initial guess that maximizes my potential winnings regardless of the actual amount of money held by the trenchcoat man?
 
-To answer that question, I can calculate the results for every potential initial guess (each integer between 1 and 1000) and every potential actual amount of money (again, each integer between 1 and 1000). This results in 1,000,000 different outcomes. From there, we can calculate the average winnings for each initial guess. These average winnings are the expected value, or what we might expect to win.
+To answer that question, I calculate the results for every potential initial guess (each integer between 1 and 1000) and every potential actual amount of money (again, each integer between 1 and 1000). This results in 1,000,000 different potential game states. From there, we can calculate the average winnings for each initial guess. These average winnings are the expected value, or what we might expect to win if we always use that amount for the initial guess.
 
 In order to do this in `R`, I use the `Vectorize` function to expand my original function to work with multiple game states.
 
@@ -172,8 +172,10 @@ data
 
 
 {% highlight r %}
-result <- with(data, Vectorize(guess_money)(actual = actual, initial = guess,
-                                            min_val = min_val, max_val = max_val))
+result <- with(data, Vectorize(guess_money)(actual = actual,
+                                            initial = guess,
+                                            min_val = min_val,
+                                            max_val = max_val))
   
 both <- bind_cols(data, t(result) %>%
                     as.data.frame)
@@ -294,7 +296,7 @@ both %>%
 
 ![center](/figs/2016-03-20-can-you-best-the-mysterious-man-in-the-trench-coat/compare_300_600-1.png)
 
-This is the crux: lower starting guesses allow you to win at the same rate, but when you win it's because you guessed a lower number. More directly, you win at the same rate but each set of winnings is smaller.
+This is the crux: lower starting guesses allow you to win at the same rate, but the value of each set of winnings is lower.
 
 ## More (or Fewer) Guesses
 
@@ -311,9 +313,11 @@ guess_money_mult <- function(n_tries = 1, min_val = 1, max_val = 1000){
   data <- expand.grid(actual = actual_vals, guess = guess_vals) %>%
     tbl_df
   
-  result <- with(data, Vectorize(guess_money)(actual = actual, initial = guess,
+  result <- with(data, Vectorize(guess_money)(actual = actual,
+                                              initial = guess,
                                               n_tries = n_tries,
-                                              min_val = min_val, max_val = max_val))
+                                              min_val = min_val,
+                                              max_val = max_val))
   
   both <- bind_cols(data, t(result) %>%
                       as.data.frame) %>%
@@ -344,8 +348,9 @@ ggplot(tries_all_exp, aes(guess, exp_val,
                           group = n_tries, color = n_tries)) +
   geom_line() +
   geom_point(data = tries_all_exp_max) +
-  geom_label_repel(data = tries_all_exp_max, aes(label = paste0("$", guess)),
-            show.legend = FALSE) +
+  geom_label_repel(data = tries_all_exp_max,
+                   aes(label = paste0("$", guess)),
+                   show.legend = FALSE) +
   scale_x_continuous(labels = scales::dollar) +
   scale_y_continuous(labels = scales::dollar) +
   scale_color_discrete(guide = guide_legend(reverse = TRUE)) +
