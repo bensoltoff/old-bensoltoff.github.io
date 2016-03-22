@@ -326,7 +326,7 @@ guess_money_mult <- function(n_tries = 1, min_val = 1, max_val = 1000){
   return(both)
 }
 
-tries_all <- lapply(1:12, function(x) guess_money_mult(n_tries = x)) %>%
+tries_all <- lapply(1:11, function(x) guess_money_mult(n_tries = x)) %>%
   bind_rows
 {% endhighlight %}
 
@@ -363,8 +363,33 @@ ggplot(tries_all_exp, aes(guess, exp_val,
 
 ![center](/figs/2016-03-20-can-you-best-the-mysterious-man-in-the-trench-coat/exp_val_all_plot-1.png)
 
-The fewer guesses you receive, the higher your initial guess must be to maximize your expected winnings. If you had 12 or more guesses, it simply does not matter what your initial guess is: you can always win using my proposed strategy.
+The fewer guesses you receive, the higher your initial guess must be to maximize your expected winnings. If you had <s>12</s> 11 or more guesses, it simply does not matter what your initial guess is: you can always win using my proposed strategy.
 
+UPDATE: 3-21-16 9:37 pm
+
+Thanks to Peter Owen for his helpful comment:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/soltofbc">@soltofbc</a> <a href="https://twitter.com/FiveThirtyEight">@FiveThirtyEight</a> <a href="https://twitter.com/ollie">@ollie</a> so long as you start within the right range. 11 guesses and you&#39;ll always win with that method. I think...</p>&mdash; Peter Owen (@_PeteOwen) <a href="https://twitter.com/_PeteOwen/status/712087148003004416">March 22, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+{% highlight r %}
+ggplot(tries_all_exp, aes(guess, win_rate,
+                          group = n_tries, color = n_tries)) +
+  geom_line() +
+  scale_x_continuous(labels = scales::dollar) +
+  scale_y_continuous(labels = scales::percent) +
+  scale_color_discrete(guide = guide_legend(reverse = TRUE)) +
+  labs(x = "Initial Guess",
+       y = "Win Rate",
+       color = "Number of\nGuesses",
+       group = "Number of\nGuesses") +
+  theme_bw(base_size = 16)
+{% endhighlight %}
+
+![center](/figs/2016-03-20-can-you-best-the-mysterious-man-in-the-trench-coat/exp_val_all_win-1.png)
+
+11 is the minimum number of guesses needed to guarantee victory.
 
 
 
