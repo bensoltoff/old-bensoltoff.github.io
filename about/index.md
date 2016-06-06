@@ -5,32 +5,28 @@ tags: [about]
 comments: false
 ---
 
-I am a visiting assistant professor at [Miami University](http://miamioh.edu/cas/academics/departments/political-science/index.html). In August 2015, I received my Ph.D. in [Political Science](http://polisci.la.psu.edu/) from Penn State University. My interests include American politics, judicial politics, machine learning, and statistics in R.
+I am currently a visiting assistant professor at [Miami University](http://miamioh.edu/cas/academics/departments/political-science/index.html). In July 2016 I will join the University of Chicago's [Masters in Computational Social Science](https://macss.uchicago.edu) as a lecturer. I received my Ph.D. in [Political Science](http://polisci.la.psu.edu/) from Penn State University.
 
 
-Publications
-=================
+## Major Research Interests
 
-1. Soltoff, Benjamin C., with Zachary Baumann and Kathleen Marchetti. ["What's the Payoff? Assessing the Efficacy of Classroom Technologies on Student Attitudes and Grade Outcomes."](http://www.tandfonline.com/doi/abs/10.1080/15512169.2015.1047104) *Journal of Political Science Education*, 11(3).
+* American poltiics
+* Judicial elections
+* Machine learning
+* Data visualization
+* Statistics in [R](https://www.r-project.org/)
 
-Projects in Progress
-=================
-
-* Campaign Contributions and Judicial Decisionmaking: Does Money Buy Access?
-* Campaign Contributions and Judicial Decisionmaking in Elected and Appointed Judiciaries (with Jeremy Johnson)
-* Do Decisions Follow Dollars? Campaign Contributions and State Supreme Court Decisions
-* The Effect of Institutional Procedures on Agenda-Setting in State Courts of Last Resort
-* Sincere and Sophisticated Agenda-Setting in State Courts of Last Resort
-* Supreme Court Behavior Under Mandatory Jurisdiction (with Christopher Zorn)
-
-Software
-=================
+## Software
 
 * [rnflstats](https://github.com/bensoltoff/rnflstats) - an R package for analyzing data from [Armchair Analysis](http://armchairanalysis.com/index.php)
+* [rspellingbee](https://github.com/bensoltoff/rspellingbee) - an R package for collecting and analyzing performances in the Scripps National Spelling Bee
 
-Links
-=================
+## Personal Life
 
-* [My CV](https://drive.google.com/file/d/0ByLziL7vt0rqOFQ3VTRjMm9ubTA/view?usp=sharing)
-* [Teaching]({{ site.baseurl }}/about/teaching.html)
+{% include image.html img="images/ben_amanda.jpg" title="Benjamin and Amanda" caption="My amazing wife Amanda" %}
+
+{% include image.html img="images/jacob.jpg" title="Jacob" caption="Our wonderful son Jacob" %}
+
+{% include image.html img="images/ariel.jpg" title="Ariel" caption="Our cute cat Ariel" %}
+
 
