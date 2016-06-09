@@ -118,8 +118,8 @@ Oxford, OH 45056                   |
 
 ### University
 
-* College Dissertation Support Grant (Assistantship Release), College of the Liberal Arts, Penn State University, Fall 2014 (\$4,000)
-* External Funding Incentive Award, College of the Liberal Arts, Penn State University, 2014 (\$500)
+* College Dissertation Support Grant (Assistantship Release), College of the Liberal Arts, Penn State University, Fall 2014 ($4,000)
+* External Funding Incentive Award, College of the Liberal Arts, Penn State University, 2014 ($500)
 * Pre-Doctoral Fellow, Penn State Quantitative Social Science Initiative (QuaSSI), 2013-2014
 * Phi Beta Kappa & Phi Kappa Phi, 2010
 
