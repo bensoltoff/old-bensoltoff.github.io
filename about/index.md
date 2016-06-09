@@ -5,7 +5,7 @@ tags: [about]
 comments: false
 ---
 
-I am currently a visiting assistant professor at [Miami University](http://miamioh.edu/cas/academics/departments/political-science/index.html). In July 2016 I will join the University of Chicago's [Masters in Computational Social Science](https://macss.uchicago.edu) as a lecturer. I received my Ph.D. in [Political Science](http://polisci.la.psu.edu/) from Penn State University.
+I am currently a visiting assistant professor at [Miami University](http://miamioh.edu/cas/academics/departments/political-science/index.html). In July 2016 I will join the University of Chicago's [Masters in Computational Social Science](https://macss.uchicago.edu) program as a lecturer. I received my Ph.D. in [Political Science](http://polisci.la.psu.edu/) from Penn State University.
 
 
 ## Major Research Interests
