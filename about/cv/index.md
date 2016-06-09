@@ -2,7 +2,7 @@
 layout: page
 title: CV
 tags: [about, cv]
-comments: true
+comments: false
 ---
 
 Department of Political Science    | Phone: (513)-529-3298
