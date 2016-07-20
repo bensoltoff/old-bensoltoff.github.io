@@ -5,10 +5,10 @@ tags: [about, cv]
 comments: false
 ---
 
-Department of Political Science    | Phone: (513)-529-3298
-Miami University                   | Office: 317 Harrison Hall
-218 Harrison Hall                  | [ben@bensoltoff.com](mailto:ben@bensoltoff.com)
-Oxford, OH 45056                   |    
+Social Sciences Division          | Phone: (773)-702-9360
+University of Chicago             | Office: 249 Saieh Hall
+5730 S. Woodlawn Ave              | [ben@bensoltoff.com](mailto:ben@bensoltoff.com)
+Chicago, IL 60637                 |    
 
 
 ## Education
@@ -85,6 +85,12 @@ Oxford, OH 45056                   |
 
 #### Instructor
 
+* MACS 30000: Perspectives on Computational Analysis, with Rick Evans (Autumn 2016)
+* MACS 30100: Perspectives on Computational Modeling, with Rick Evans (Winter 2017)
+* MACS 30200: Perspectives on Advanced Computational Topics, with Rick Evans (Spring 2017)
+* MACS 30500: Computing for the Social Sciences (Autumn 2016)
+* MACS 40500: Big Data and Society (Winter 2017)
+* MACS 40700: Data Visualization (Spring 2017)
 * POL 241: American Political System ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqb3NDR2haV20yTzg/view); [Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqcnItSHBJU2VFcFE/view?usp=sharing))
 * POL 351: Criminal Justice ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqS2xkUDN0aGF3WEk/view))
 * POL 352: Constitutional Law & Politics ([Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqcUtWTnNqMFZkNjQ/view?usp=sharing))
