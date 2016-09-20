@@ -124,6 +124,6 @@ draft_pick_sim(n_sims = 10000) %>%
 
 The team originally with the 10th draft can expect to have the *13th pick* under this new approach.
 
-What turned into the more complicated part was turning this function into a working Shiny app. [I encourage you to try it out](https://bensoltoff.shinyapps.io/draft_pick/), as it generalizes the problem by providing expected draft picks given $N$ teams and $K$ groups.
+What turned into the more complicated part was turning this function into a working Shiny app. [I encourage you to try it out](https://bensoltoff.shinyapps.io/draft_pick/), as it generalizes the problem by providing expected draft picks given *N* teams and *K* groups.
 
 
