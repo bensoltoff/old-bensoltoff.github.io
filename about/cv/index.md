@@ -23,24 +23,57 @@ Chicago, IL 60637                 |
 * University of Chicago, [Masters in Computational Social Science](https://macss.uchicago.edu/), Lecturer (2016-present)
 * Miami University, [Department of Political Science](http://miamioh.edu/cas/academics/departments/political-science/index.html), Visiting Assistant Professor (2015-2016)
 
+## Teaching
+
+### Teaching Experience
+
+#### Instructor
+
+* MACS 30000: Perspectives on Computational Analysis, with Rick Evans ([Autumn 2016](https://github.com/UC-MACSS/persp-analysis))
+* MACS 30100: Perspectives on Computational Modeling, with Rick Evans (Winter 2017)
+* MACS 30200: Perspectives on Advanced Computational Topics, with Rick Evans (Spring 2017)
+* MACS 30500: Computing for the Social Sciences ([Autumn 2016](https://uc-cfss.github.io/))
+* MACS 40500: Big Data and Society (Winter 2017)
+* MACS 40700: Data Visualization (Spring 2017)
+* POL 241: American Political System ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqb3NDR2haV20yTzg/view); [Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqcnItSHBJU2VFcFE/view?usp=sharing))
+* POL 351: Criminal Justice ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqS2xkUDN0aGF3WEk/view))
+* POL 352: Constitutional Law & Politics ([Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqcUtWTnNqMFZkNjQ/view?usp=sharing))
+* POL 353: Constitutional Rights & Liberties ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqVmRsWlJFRS1lck0/view); [Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqemVnTEpQRDV5c2M/view?usp=sharing))
+* PL SC 309: Quantitative Political Analysis ([Spring 2015](https://drive.google.com/file/d/0ByLziL7vt0rqRHR5X3dCVldWQ2s/view?usp=sharing))
+* PL SC 471: American Constitutional Law ([Summer 2014](https://drive.google.com/file/d/0ByLziL7vt0rqWkdoNXlhMTZ1Q1E/edit?usp=sharing))
+
+#### Graduate Methods Preceptor
+
+* PL SC 502: Statistical Methods for Political Research, with Professor Luke Keele (Fall 2012)
+* PL SC 503: Multivariate Analysis for Political Research, with Professor Christopher Zorn ([Spring 2013](https://drive.google.com/file/d/0ByLziL7vt0rqSGFaMXMxaHFhRWM/edit?usp=sharing))
+* PL SC 597G: Advanced Topics in Political Methodology, with Professor Christopher Zorn ([Fall 2012](https://drive.google.com/file/d/0ByLziL7vt0rqWExXTUpCVDlBX1k/edit?usp=sharing))
+
+#### Teaching Assistant
+
+* PL SC 001: Introduction to American Government, with Professor Michael Berkman ([Spring 2012](https://drive.google.com/file/d/0ByLziL7vt0rqWFR6aHgwM2o2bUk/edit?usp=sharing))
+* PL SC 001: Introduction to American Government, with Lecturer Zachary Baumann ([Fall 2011](https://drive.google.com/file/d/0ByLziL7vt0rqdTYyWTJ1NEFURkk/edit?usp=sharing))
+
+### Teaching Training
+
+* [Penn State Graduate School Teaching Certificate](http://www.gradschool.psu.edu/index.cfm/current-students/tacert/)
+  * [Schreyer Institute -- New Instructor Orientation](http://www.schreyerinstitute.psu.edu/Events/NIO/)
+  * [Schreyer Institute -- Penn State Course in College Teaching](http://www.schreyerinstitute.psu.edu/Events/CCT/)
+
+
 ## Research
 
 ### Peer-Reviewed Publications
 
 1. [**Soltoff, Benjamin C.**, with Zachary Baumann and Kathleen Marchetti. 2015. "What's the Payoff? Assessing the Efficacy of Classroom Technologies on Student Attitudes and Grade Outcomes." Journal of Political Science Education, 11(3), 249-263.](http://dx.doi.org/10.1080/15512169.2015.1047104)
 
-### Under Revision
-
-* (How) Is Justice For Sale? Campaign Contributions and State Supreme Court Decisions
-  * Winner, Outstanding Poster, 2014 State Politics and Policy Conference
-* Sincere and Sophisticated Agenda-Setting in State Courts of Last Resort
-
-
 ### Working Papers
 
 * Campaign Contributions and Judicial Decisionmaking: Does Money Buy Access?
 * Campaign Contributions and Judicial Decisionmaking in Elected and Appointed Judiciaries (with Jeremy Johnson)
 * The Effect of Institutional Procedures on Agenda-Setting in State Courts of Last Resort
+* (How) Is Justice For Sale? Campaign Contributions and State Supreme Court Decisions
+  * Winner, Outstanding Poster, 2014 State Politics and Policy Conference
+* Sincere and Sophisticated Agenda-Setting in State Courts of Last Resort
 * Supreme Court Behavior Under Mandatory Jurisdiction (with Christopher Zorn)
 
 ### Other Publications
@@ -78,42 +111,6 @@ Chicago, IL 60637                 |
   * Paper presented at the Senior Honors Thesis Colloquium, Department of Political Science, James Madison University, Harrisonburg, VA, April 19, 2010.
   * Paper presented at the Colonial Academic Alliance Undergraduate Research Conference, Richmond, VA, 2010.
   * Paper presented at the Inaugural Madison Research by Undergraduates in the Social Sciences and Humanities Conference, Harrisonburg, VA, 2010.
-
-## Teaching
-
-### Teaching Experience
-
-#### Instructor
-
-* MACS 30000: Perspectives on Computational Analysis, with Rick Evans (Autumn 2016)
-* MACS 30100: Perspectives on Computational Modeling, with Rick Evans (Winter 2017)
-* MACS 30200: Perspectives on Advanced Computational Topics, with Rick Evans (Spring 2017)
-* MACS 30500: Computing for the Social Sciences (Autumn 2016)
-* MACS 40500: Big Data and Society (Winter 2017)
-* MACS 40700: Data Visualization (Spring 2017)
-* POL 241: American Political System ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqb3NDR2haV20yTzg/view); [Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqcnItSHBJU2VFcFE/view?usp=sharing))
-* POL 351: Criminal Justice ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqS2xkUDN0aGF3WEk/view))
-* POL 352: Constitutional Law & Politics ([Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqcUtWTnNqMFZkNjQ/view?usp=sharing))
-* POL 353: Constitutional Rights & Liberties ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqVmRsWlJFRS1lck0/view); [Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqemVnTEpQRDV5c2M/view?usp=sharing))
-* PL SC 309: Quantitative Political Analysis ([Spring 2015](https://drive.google.com/file/d/0ByLziL7vt0rqRHR5X3dCVldWQ2s/view?usp=sharing))
-* PL SC 471: American Constitutional Law ([Summer 2014](https://drive.google.com/file/d/0ByLziL7vt0rqWkdoNXlhMTZ1Q1E/edit?usp=sharing))
-
-#### Graduate Methods Preceptor
-
-* PL SC 502: Statistical Methods for Political Research, with Professor Luke Keele (Fall 2012).
-* PL SC 503: Multivariate Analysis for Political Research, with Professor Christopher Zorn ([Spring 2013](https://drive.google.com/file/d/0ByLziL7vt0rqSGFaMXMxaHFhRWM/edit?usp=sharing)).
-* PL SC 597G: Advanced Topics in Political Methodology, with Professor Christopher Zorn ([Fall 2012](https://drive.google.com/file/d/0ByLziL7vt0rqWExXTUpCVDlBX1k/edit?usp=sharing)).
-
-#### Teaching Assistant
-
-* PL SC 001: Introduction to American Government, with Professor Michael Berkman ([Spring 2012](https://drive.google.com/file/d/0ByLziL7vt0rqWFR6aHgwM2o2bUk/edit?usp=sharing)).
-* PL SC 001: Introduction to American Government, with Lecturer Zachary Baumann ([Fall 2011](https://drive.google.com/file/d/0ByLziL7vt0rqdTYyWTJ1NEFURkk/edit?usp=sharing)).
-
-### Teaching Training
-
-* [Penn State Graduate School Teaching Certificate](http://www.gradschool.psu.edu/index.cfm/current-students/tacert/)
-  * [Schreyer Institute -- New Instructor Orientation](http://www.schreyerinstitute.psu.edu/Events/NIO/)
-  * [Schreyer Institute -- Penn State Course in College Teaching](http://www.schreyerinstitute.psu.edu/Events/CCT/)
 
 
 ## Grants, Fellowships, and Awards
