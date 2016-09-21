@@ -27,7 +27,7 @@ Chicago, IL 60637                 |
 
 ### Teaching Experience
 
-#### Instructor
+#### Computational Social Science
 
 * MACS 30000: Perspectives on Computational Analysis, with Rick Evans ([Autumn 2016](https://github.com/UC-MACSS/persp-analysis))
 * MACS 30100: Perspectives on Computational Modeling, with Rick Evans (Winter 2017)
@@ -35,11 +35,14 @@ Chicago, IL 60637                 |
 * MACS 30500: Computing for the Social Sciences ([Autumn 2016](https://uc-cfss.github.io/))
 * MACS 40500: Big Data and Society (Winter 2017)
 * MACS 40700: Data Visualization (Spring 2017)
+* PL SC 309: Quantitative Political Analysis ([Spring 2015](https://drive.google.com/file/d/0ByLziL7vt0rqRHR5X3dCVldWQ2s/view?usp=sharing))
+
+#### American Politics
+
 * POL 241: American Political System ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqb3NDR2haV20yTzg/view); [Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqcnItSHBJU2VFcFE/view?usp=sharing))
 * POL 351: Criminal Justice ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqS2xkUDN0aGF3WEk/view))
 * POL 352: Constitutional Law & Politics ([Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqcUtWTnNqMFZkNjQ/view?usp=sharing))
 * POL 353: Constitutional Rights & Liberties ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqVmRsWlJFRS1lck0/view); [Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqemVnTEpQRDV5c2M/view?usp=sharing))
-* PL SC 309: Quantitative Political Analysis ([Spring 2015](https://drive.google.com/file/d/0ByLziL7vt0rqRHR5X3dCVldWQ2s/view?usp=sharing))
 * PL SC 471: American Constitutional Law ([Summer 2014](https://drive.google.com/file/d/0ByLziL7vt0rqWkdoNXlhMTZ1Q1E/edit?usp=sharing))
 
 #### Graduate Methods Preceptor
