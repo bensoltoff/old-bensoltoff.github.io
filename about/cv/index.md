@@ -32,8 +32,7 @@ Chicago, IL 60637                 |
 * MACS 30000: Perspectives on Computational Analysis, with Rick Evans ([Autumn 2016](https://github.com/UC-MACSS/persp-analysis))
 * MACS 30100: Perspectives on Computational Modeling, with Rick Evans (Winter 2017)
 * MACS 30200: Perspectives on Advanced Computational Topics, with Rick Evans (Spring 2017)
-* MACS 30500: Computing for the Social Sciences ([Autumn 2016](https://uc-cfss.github.io/))
-* MACS 40500: Big Data and Society (Winter 2017)
+* MACS 30500: Computing for the Social Sciences ([Autumn 2016](https://uc-cfss.github.io/); Winter 2017)
 * MACS 40700: Data Visualization (Spring 2017)
 * PL SC 309: Quantitative Political Analysis ([Spring 2015](https://drive.google.com/file/d/0ByLziL7vt0rqRHR5X3dCVldWQ2s/view?usp=sharing))
 
