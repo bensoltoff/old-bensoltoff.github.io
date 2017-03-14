@@ -30,9 +30,9 @@ Chicago, IL 60637                 |
 #### Computational Social Science
 
 * MACS 30000: Perspectives on Computational Analysis, with Rick Evans ([Autumn 2016](https://github.com/UC-MACSS/persp-analysis))
-* MACS 30100: Perspectives on Computational Modeling, with Rick Evans (Winter 2017)
+* MACS 30100: Perspectives on Computational Modeling, with Rick Evans ([Winter 2017](https://github.com/UC-MACSS/persp-model))
 * MACS 30200: Perspectives on Advanced Computational Topics, with Rick Evans (Spring 2017)
-* MACS 30500: Computing for the Social Sciences ([Autumn 2016](https://uc-cfss.github.io/); Winter 2017)
+* MACS 30500: Computing for the Social Sciences ([Autumn 2016](http://cfss.uchicago.edu/fall2016/); [Winter 2017](http://cfss.uchicago.edu))
 * MACS 40700: Data Visualization (Spring 2017)
 * PL SC 309: Quantitative Political Analysis ([Spring 2015](https://drive.google.com/file/d/0ByLziL7vt0rqRHR5X3dCVldWQ2s/view?usp=sharing))
 
@@ -46,14 +46,14 @@ Chicago, IL 60637                 |
 
 #### Graduate Methods Preceptor
 
-* PL SC 502: Statistical Methods for Political Research, with Professor Luke Keele (Fall 2012)
-* PL SC 503: Multivariate Analysis for Political Research, with Professor Christopher Zorn ([Spring 2013](https://drive.google.com/file/d/0ByLziL7vt0rqSGFaMXMxaHFhRWM/edit?usp=sharing))
-* PL SC 597G: Advanced Topics in Political Methodology, with Professor Christopher Zorn ([Fall 2012](https://drive.google.com/file/d/0ByLziL7vt0rqWExXTUpCVDlBX1k/edit?usp=sharing))
+* PL SC 502: Statistical Methods for Political Research, with Luke Keele (Fall 2012)
+* PL SC 503: Multivariate Analysis for Political Research, with Christopher Zorn ([Spring 2013](https://drive.google.com/file/d/0ByLziL7vt0rqSGFaMXMxaHFhRWM/edit?usp=sharing))
+* PL SC 597G: Advanced Topics in Political Methodology, with Christopher Zorn ([Fall 2012](https://drive.google.com/file/d/0ByLziL7vt0rqWExXTUpCVDlBX1k/edit?usp=sharing))
 
 #### Teaching Assistant
 
-* PL SC 001: Introduction to American Government, with Professor Michael Berkman ([Spring 2012](https://drive.google.com/file/d/0ByLziL7vt0rqWFR6aHgwM2o2bUk/edit?usp=sharing))
-* PL SC 001: Introduction to American Government, with Lecturer Zachary Baumann ([Fall 2011](https://drive.google.com/file/d/0ByLziL7vt0rqdTYyWTJ1NEFURkk/edit?usp=sharing))
+* PL SC 001: Introduction to American Government, with Michael Berkman ([Spring 2012](https://drive.google.com/file/d/0ByLziL7vt0rqWFR6aHgwM2o2bUk/edit?usp=sharing))
+* PL SC 001: Introduction to American Government, with Zachary Baumann ([Fall 2011](https://drive.google.com/file/d/0ByLziL7vt0rqdTYyWTJ1NEFURkk/edit?usp=sharing))
 
 ### Teaching Training
 
