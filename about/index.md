@@ -7,7 +7,6 @@ comments: false
 
 I am currently a lecturer at the University of Chicago in the [Masters in Computational Social Science](https://macss.uchicago.edu) program. I received my Ph.D. in [Political Science](http://polisci.la.psu.edu/) from Penn State University.
 
-
 ## Major Research Interests
 
 * American poltiics
@@ -27,6 +26,6 @@ I am currently a lecturer at the University of Chicago in the [Masters in Comput
 
 {% include image.html img="images/jacob.jpg" title="Jacob" caption="Our wonderful son Jacob" %}
 
+{% include image.html img="images/beverly.jpg" title="Jacob" caption="Our amazing daughter Beverky" %}
+
 {% include image.html img="images/ariel.jpg" title="Ariel" caption="Our cute cat Ariel" %}
-
-
