@@ -10,6 +10,17 @@ University of Chicago             | Office: [209 McGiffert House](https://www.go
 5730 S. Woodlawn Ave              | [ben@bensoltoff.com](mailto:ben@bensoltoff.com)
 Chicago, IL 60637                 |    
 
+# Research/Teaching Interests
+
+**Substantive** Political institutions, judicial politics, agenda-setting, campaign finance
+
+**Methodology** Machine learning, data science, computational methods, text analysis, multilevel modeling
+
+# Employment
+
+* Lecturer, University of Chicago, [Masters in Computational Social Science](https://macss.uchicago.edu/) (2016-present)
+* Visiting Assistant Professor, Miami University, [Department of Political Science](http://miamioh.edu/cas/academics/departments/political-science/index.html) (2015-2016)
+
 # Education
 
 * PhD, Political Science, [The Pennsylvania State University](http://polisci.la.psu.edu/), 2015
@@ -18,22 +29,19 @@ Chicago, IL 60637                 |
 * MA, Political Science, [The Pennsylvania State University](http://polisci.la.psu.edu/), 2012
 * BA, Political Science, [James Madison University](http://www.jmu.edu/polisci/), 2010
 
-# Employment
-
-* Lecturer, University of Chicago, [Masters in Computational Social Science](https://macss.uchicago.edu/) (2016-present)
-* Visiting Assistant Professor, Miami University, [Department of Political Science](http://miamioh.edu/cas/academics/departments/political-science/index.html) (2015-2016)
-
 # Teaching Experience
 
 ## Instructor of Record
 
 ### Computational Social Science
 
-* [MACS 30000: Perspectives on Computational Analysis](https://github.com/UC-MACSS/persp-analysis) (Autumn 2016 with Rick Evans; Autumn 2017)
-* [MACS 30100: Perspectives on Computational Modeling](https://github.com/UC-MACSS/persp-model) (Winter 2017 with Rick Evans)
-* [MACS 30200: Perspectives on Computational Research](https://github.com/UC-MACSS/persp-research) (Spring 2017, 2018 with Rick Evans)
-* [MACS 30500: Computing for the Social Sciences](http://cfss.uchicago.edu) (Autumn 2016; Winter 2017; Autumn 2017; Spring 2018)
-* [MACS 40700: Data Visualization](https://github.com/uc-cfss/dataviz) (Spring 2017, Spring 2018)
+* MACS 30000: Perspectives on Computational Analysis ([Autumn 2016](https://github.com/UC-MACSS/persp-analysis/tree/fall16) with Rick Evans; [Autumn 2017](https://github.com/UC-MACSS/persp-analysis))
+* MACS 30100: Perspectives on Computational Modeling ([Winter 2017](https://github.com/UC-MACSS/persp-model_W17) with Rick Evans; Winter 2019)
+* MACS 30200: Perspectives on Computational Research ([Spring 2017](https://github.com/UC-MACSS/persp-research_Spr17), [Spring 2018](https://github.com/UC-MACSS/persp-research_Spr18) with Rick Evans; Spring 2019)
+* [MACS 30500: Computing for the Social Sciences](http://cfss.uchicago.edu) (Autumn 2016; Winter 2017; Autumn 2017; Spring 2018; Autumn 2018; Spring 2019)
+* MACS 30XXX: Mathematics and Statistics for Computational Social Science (Autumn 2018)
+* MACS 33000: Computational Mathematics and Statistics Camp ([Autumn 2018](https://github.com/math-camp/course))
+* MACS 40700: Data Visualization ([Spring 2017](https://github.com/uc-cfss/dataviz/), [Spring 2018](https://github.com/uc-dataviz/course))
 * [PL SC 309: Quantitative Political Analysis](https://drive.google.com/file/d/0ByLziL7vt0rqRHR5X3dCVldWQ2s/view?usp=sharing) (Spring 2015)
 
 ### American Politics
@@ -134,24 +142,25 @@ Chicago, IL 60637                 |
 
 ## Department
 
-* Travel Grant for presentation at SPPC, Department of Political Science, Penn State University, 2014 ($600)
-* Travel Grant for presentation at MPSA, Department of Political Science, Penn State University, 2014 ($700)
-* Graduate Research Support Grant for preliminary data collection on dissertation, Department of Political Science, Penn State University, 2013 ($1,000)
-* Travel Grant for presentation at SPPC, Department of Political Science, Penn State University, 2013 ($500)
-* Travel Grant for presentation at SPSA, Department of Political Science, Penn State University, 2013 ($700)
-* Prestage-Cook Travel Award for presentation at SPSA, Southern Political Science Association, 2013 ($125)
-* Summer Graduate Research Award for "The Effect of State Cert Procedures on Judicial and Litigant Agenda-Setting", Department of Political Science, Penn State University, 2012 ($3,000)
-* Travel Grant for presentation at MPSA, Department of Political Science, Penn State University, 2012 ($700)
-* James Madison University Honor's Program small grant to attend Sorensen Institute for Political Leadership, College Leaders Program, 2009 ($200)
+* Travel Grant for presentation at SPPC, 2014
+* Travel Grant for presentation at MPSA, 2014
+* Graduate Research Support Grant for preliminary data collection on dissertation, 2013 ($1,000)
+* Travel Grant for presentation at SPPC, 2013
+* Travel Grant for presentation at SPSA, 2013
+* Prestage-Cook Travel Award for presentation at SPSA, Southern Political Science Association, 2013
+* Summer Graduate Research Award for "The Effect of State Cert Procedures on Judicial and Litigant Agenda-Setting", 2012 ($3,000)
+* Travel Grant for presentation at MPSA, 2012
 * "Best Political Science Senior Honors Thesis," James Madison University, 2010
 
 # Advising
 
-* MA thesis advisor: Yanning Cui (2017), Bobae Kang (2017)
+* MA thesis advisor
+    * 2018 - Chelsea Ernhofer, Yang Hou
+    * 2017 - Yanning Cui, Bobae Kang
 
 # Service to the Profession
 
-* Reviewer, *American Journal of Political Science*, *State Politics & Policy Quarterly*
+* Reviewer, *American Journal of Political Science*, Chapman and Hall, National Science Foundation, *State Politics & Policy Quarterly*, SAGE Campus
 * Panel discussant, American Political Science Association
 * Roundtable panel discussant, Midwest Political Science Association
 

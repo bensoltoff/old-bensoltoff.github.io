@@ -11,13 +11,14 @@ As a teacher, I believe my primary mission is to prepare students to be educated
 
 #### Computational Social Science
 
-* MACS 30000: Perspectives on Computational Analysis, with Rick Evans ([Autumn 2016](https://github.com/UC-MACSS/persp-analysis))
-* MACS 30100: Perspectives on Computational Modeling, with Rick Evans ([Winter 2017](https://github.com/UC-MACSS/persp-model))
-* MACS 30200: Perspectives on Advanced Computational Topics, with Rick Evans (Spring 2017)
-* MACS 30500: Computing for the Social Sciences ([Autumn 2016](http://cfss.uchicago.edu/fall2016/); [Winter 2017](http://cfss.uchicago.edu))
-* MACS 40700: Data Visualization (Spring 2017)
-* PL SC 309: Quantitative Political Analysis ([Spring 2015](https://drive.google.com/file/d/0ByLziL7vt0rqRHR5X3dCVldWQ2s/view?usp=sharing))
-
+* MACS 30000: Perspectives on Computational Analysis ([Autumn 2016](https://github.com/UC-MACSS/persp-analysis/tree/fall16) with Rick Evans; [Autumn 2017](https://github.com/UC-MACSS/persp-analysis))
+* MACS 30100: Perspectives on Computational Modeling ([Winter 2017](https://github.com/UC-MACSS/persp-model_W17) with Rick Evans; Winter 2019)
+* MACS 30200: Perspectives on Computational Research ([Spring 2017](https://github.com/UC-MACSS/persp-research_Spr17), [Spring 2018](https://github.com/UC-MACSS/persp-research_Spr18) with Rick Evans; Spring 2019)
+* [MACS 30500: Computing for the Social Sciences](http://cfss.uchicago.edu) (Autumn 2016; Winter 2017; Autumn 2017; Spring 2018; Autumn 2018; Spring 2019)
+* MACS 30XXX: Mathematics and Statistics for Computational Social Science (Autumn 2018)
+* MACS 33000: Computational Mathematics and Statistics Camp ([Autumn 2018](https://github.com/math-camp/course))
+* MACS 40700: Data Visualization ([Spring 2017](https://github.com/uc-cfss/dataviz/), [Spring 2018](https://github.com/uc-dataviz/course))
+* [PL SC 309: Quantitative Political Analysis](https://drive.google.com/file/d/0ByLziL7vt0rqRHR5X3dCVldWQ2s/view?usp=sharing) (Spring 2015)
 #### American Politics
 
 * POL 241: American Political System ([Fall 2015](https://drive.google.com/a/bensoltoff.com/file/d/0ByLziL7vt0rqb3NDR2haV20yTzg/view); [Spring 2016](https://drive.google.com/file/d/0ByLziL7vt0rqcnItSHBJU2VFcFE/view?usp=sharing))
