@@ -12,9 +12,8 @@ Chicago, IL 60637                 |
 
 # Research/Teaching Interests
 
-**Substantive** Political institutions, judicial politics, agenda-setting, campaign finance
-
-**Methodology** Machine learning, data science, computational methods, text analysis, multilevel modeling
+* **Substantive** Political institutions, judicial politics, agenda-setting, campaign finance
+* **Methodology** Machine learning, data science, computational methods, text analysis, multilevel modeling
 
 # Employment
 
