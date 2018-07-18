@@ -39,8 +39,8 @@ Chicago, IL 60637                 |
 * MACS 30100: Perspectives on Computational Modeling ([Winter 2017](https://github.com/UC-MACSS/persp-model_W17) with Rick Evans; Winter 2019)
 * MACS 30200: Perspectives on Computational Research ([Spring 2017](https://github.com/UC-MACSS/persp-research_Spr17), [Spring 2018](https://github.com/UC-MACSS/persp-research_Spr18) with Rick Evans; Spring 2019)
 * [MACS 30500: Computing for the Social Sciences](http://cfss.uchicago.edu) (Autumn 2016; Winter 2017; Autumn 2017; Spring 2018; Autumn 2018; Spring 2019)
-* MACS 30XXX: Mathematics and Statistics for Computational Social Science (Autumn 2018)
 * MACS 33000: Computational Mathematics and Statistics Camp ([Autumn 2018](https://github.com/math-camp/course))
+* MACS 33001: Mathematics and Statistics for Computational Social Science (Autumn 2018)
 * MACS 40700: Data Visualization ([Spring 2017](https://github.com/uc-cfss/dataviz/), [Spring 2018](https://github.com/uc-dataviz/course))
 * [PL SC 309: Quantitative Political Analysis](https://drive.google.com/file/d/0ByLziL7vt0rqRHR5X3dCVldWQ2s/view?usp=sharing) (Spring 2015)
 
