@@ -71,7 +71,7 @@ varying_matches <- data_frame(n_matches = 1:300) %>%
 ggplot(varying_matches, aes(n_matches, prob_win)) +
   geom_line() +
   scale_y_continuous(labels = scales::percent) +
-  labs(title = "Probability of winning the world chess championship",
+  labs(title = "World chess championship",
        x = "Maximum number of matches",
        y = "Probability of victory")
 {% endhighlight %}
@@ -87,7 +87,7 @@ varying_matches %>%
   geom_line() +
   scale_y_continuous(labels = scales::percent) +
   scale_color_brewer(type = "qual") +
-  labs(title = "Probability of winning the world chess championship",
+  labs(title = "World chess championship",
        x = "Maximum number of matches",
        y = "Probability",
        color = NULL) +
