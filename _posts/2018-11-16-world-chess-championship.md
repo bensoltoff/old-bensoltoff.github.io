@@ -26,7 +26,7 @@ Based on the example [here](https://rpubs.com/JanpuHou/296336), I wrote a genera
 library(tidyverse)
 library(magrittr)
 
-theme_set(theme_minimal())
+theme_set(theme_minimal(base_size = 18))
 {% endhighlight %}
 
 
