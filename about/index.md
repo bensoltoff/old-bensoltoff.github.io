@@ -26,6 +26,6 @@ I am currently a lecturer at the University of Chicago in the [Masters in Comput
 
 {% include image.html img="images/jacob.jpg" title="Jacob" caption="Our wonderful son Jacob" %}
 
-{% include image.html img="images/beverly.jpg" title="Jacob" caption="Our amazing daughter Beverky" %}
+{% include image.html img="images/beverly.jpg" title="Jacob" caption="Our amazing daughter Beverly" %}
 
 {% include image.html img="images/ariel.jpg" title="Ariel" caption="Our cute cat Ariel" %}
