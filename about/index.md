@@ -5,7 +5,7 @@ tags: [about]
 comments: false
 ---
 
-I am currently a lecturer at the University of Chicago in the [Masters in Computational Social Science](https://macss.uchicago.edu) program. I received my Ph.D. in [Political Science](http://polisci.la.psu.edu/) from Penn State University.
+I am currently an assistant instructional professor at the University of Chicago in the [Masters in Computational Social Science](https://macss.uchicago.edu) program. I received my Ph.D. in [Political Science](http://polisci.la.psu.edu/) from Penn State University.
 
 ## Major Research Interests
 

@@ -12,12 +12,15 @@ Chicago, IL 60637                 |
 
 # Research/Teaching Interests
 
-* **Substantive** Political institutions, judicial politics, agenda-setting, campaign finance
-* **Methodology** Machine learning, data science, computational methods, text analysis, multilevel modeling
+**Substantive** Political institutions, judicial politics, agenda-setting, campaign finance
+
+**Methodology** Statistical learning, data science, programming, data visualization
 
 # Employment
 
-* Lecturer, University of Chicago, [Masters in Computational Social Science](https://macss.uchicago.edu/) (2016-present)
+* Assistant Instructional Professor of Computational Social Science, University of Chicago (2019-present)
+* Assistant Director, [Masters in Computational Social Science](https://macss.uchicago.edu/), University of Chicago (2019-present)
+* Lecturer in Computational Social Science, University of Chicago (2016-2019)
 * Visiting Assistant Professor, Miami University, [Department of Political Science](http://miamioh.edu/cas/academics/departments/political-science/index.html) (2015-2016)
 
 # Education
@@ -34,12 +37,13 @@ Chicago, IL 60637                 |
 
 ### Computational Social Science
 
-* MACS 30000: Perspectives on Computational Analysis ([Autumn 2016](https://github.com/UC-MACSS/persp-analysis/tree/fall16) with Rick Evans; [Autumn 2017](https://github.com/UC-MACSS/persp-analysis))
+* MACS 30000: Perspectives on Computational Analysis ([Autumn 2016](https://github.com/UC-MACSS/persp-analysis/tree/fall16) with Rick Evans; [Autumn 2017](https://github.com/UC-MACSS/persp-analysis); Autumn 2019)
 * MACS 30100: Perspectives on Computational Modeling ([Winter 2017](https://github.com/UC-MACSS/persp-model_W17) with Rick Evans; Winter 2019)
 * MACS 30200: Perspectives on Computational Research ([Spring 2017](https://github.com/UC-MACSS/persp-research_Spr17), [Spring 2018](https://github.com/UC-MACSS/persp-research_Spr18) with Rick Evans; Spring 2019)
-* [MACS 30500: Computing for the Social Sciences](http://cfss.uchicago.edu) (Autumn 2016; Winter 2017; Autumn 2017; Spring 2018; Autumn 2018; Spring 2019)
+* [MACS 30500: Computing for the Social Sciences](http://cfss.uchicago.edu) (Autumn 2016; Winter 2017; Autumn 2017; Spring 2018; Autumn 2018; Spring 2019; Summer 2019; Autumn 2019; Spring 2020)
 * MACS 33000: Computational Mathematics and Statistics Camp ([Autumn 2018](https://github.com/math-camp/course))
-* MACS 33001: Mathematics and Statistics for Computational Social Science (Autumn 2018)
+* [MACS 33001: Mathematics and Statistics for Computational Social Science](https://css18.github.io/) (Autumn 2018; Autumn 2019)
+* MACS 40100: Big Data and Society (Spring 2020)
 * MACS 40700: Data Visualization ([Spring 2017](https://github.com/uc-cfss/dataviz/), [Spring 2018](https://github.com/uc-dataviz/course))
 * [PL SC 309: Quantitative Political Analysis](https://drive.google.com/file/d/0ByLziL7vt0rqRHR5X3dCVldWQ2s/view?usp=sharing) (Spring 2015)
 
@@ -75,24 +79,15 @@ Chicago, IL 60637                 |
 
 1. [**Soltoff, Benjamin C.**, with Zachary Baumann and Kathleen Marchetti. 2015. "What's the Payoff? Assessing the Efficacy of Classroom Technologies on Student Attitudes and Grade Outcomes." Journal of Political Science Education, 11(3), 249-263.](http://dx.doi.org/10.1080/15512169.2015.1047104)
 
-## Under Review
-
-* Campaign Contributions and Judicial Decisionmaking: Does Money Buy Access?
-    * Invited to revise and resubmit at *Journal of Law and Courts*
-* Do Decisions Follow Dollars? Campaign Contributions and State Supreme Court Decisions
-    * Invited to revise and resubmit at *Justice System Journal*
-    * Winner, Outstanding Poster, 2014 State Politics and Policy Conference
-
 ## Working Papers
 
+* Campaign Contributions and Judicial Decisionmaking: Does Money Buy Access?
 * Campaign Contributions and Judicial Decisionmaking in Elected and Appointed Judiciaries
+* Do Decisions Follow Dollars? Campaign Contributions and State Supreme Court Decisions
+    * Winner, Outstanding Poster, 2014 State Politics and Policy Conference
 * The Effect of Institutional Procedures on Agenda-Setting in State Courts of Last Resort
 * Sincere and Sophisticated Agenda-Setting in State Courts of Last Resort
 * Supreme Court Behavior Under Mandatory Jurisdiction (with Christopher Zorn)
-
-## Other Publications
-
-* [Replace two justices, not one.](http://www.mydaytondailynews.com/news/news/opinion/scholars-look-at-whats-next-for-supreme-court/nqSyp/) *Dayton Daily News*, February 21, 2016.
 
 ## Conference and Seminar Presentations
 
@@ -126,6 +121,14 @@ Chicago, IL 60637                 |
     * Paper presented at the Colonial Academic Alliance Undergraduate Research Conference, Richmond, VA, 2010.
     * Paper presented at the Inaugural Madison Research by Undergraduates in the Social Sciences and Humanities Conference, Harrisonburg, VA, 2010.
 
+## Media Appearances
+
+* ['Jeopardy' champ keeps making history with 21-show win streak.](https://www.waff.com/2019/05/03/jeopardy-champ-keeps-making-history-with-show-win-streak/) CNN, May 3, 2019.
+* [What's Behind 'Jeopardy!' Contestant James Holzhauer's Winning Strategy.](https://www.wbur.org/radioboston/2019/04/30/jeopardy-holzhauer-winning-strategy) WBUR Radio Boston, April 30, 2019.
+* ['Jeopardy!' champ James Holzhauer has won over $1 million -- here's how he keeps winning.](https://www.cnbc.com/2019/04/25/how-jeopardy-champ-james-holzhauer-has-won-over-1-million-dollars.html) CNBC, April 25, 2019.
+* [Inside James Holzhauer's *Jeopardy*!-Dominating Strategy.](https://www.wired.com/story/jeopardy-record-james-holzhauer-strategy/) *Wired*, April 24, 2019.
+* [Replace two justices, not one.](http://www.mydaytondailynews.com/news/news/opinion/scholars-look-at-whats-next-for-supreme-court/nqSyp/) *Dayton Daily News*, February 21, 2016.
+
 # Grants, Fellowships, and Awards
 
 ## National
@@ -154,7 +157,8 @@ Chicago, IL 60637                 |
 # Advising
 
 * MA thesis advisor
-    * 2018 - Chelsea Ernhofer, Yang Hou
+    * 2019 - Kevin Sun, Jiang Wang, Lerong Wang
+    * 2018 - Chelsea Ernhofer, Yang Hou, Yuqing Zhang
     * 2017 - Yanning Cui, Bobae Kang
 
 # Service to the Profession
